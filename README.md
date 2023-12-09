@@ -1,6 +1,6 @@
 
 
-    #Some Feature of This Website
+    # Some Feature of This Website
 
     1. This Website is a one page(React.js) website.
     2. In this website has a home page. There has 5 sections banner, features, some assignments, FAQ, footer.
@@ -21,9 +21,9 @@
                                                 vi. you can see "the assignments which you add" and it displayed by My Assignment page
 
 
-    #💻 Technologies & Tools
-        Frontend: React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
-        Backend: Node.js, Express.js
-        Database: MongoDB
+    # 💻 Technologies & Tools
+          Frontend: React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
+          Backend: Node.js, Express.js
+          Database: MongoDB
 
 Live web Link: https://assignmentcommunication.web.app/
